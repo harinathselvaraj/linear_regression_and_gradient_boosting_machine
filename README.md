@@ -1,2 +1,2 @@
-# linear_regression_and_gradient_machine
+# Linear Regression and Gradient Boosting Machine
 Comparison of Linear Regression and Gradient Machine models
